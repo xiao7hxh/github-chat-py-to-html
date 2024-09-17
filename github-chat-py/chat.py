@@ -2,7 +2,7 @@ import sys
 from openai import OpenAI
 
 # 直接在代码中指定 GitHub 访问令牌
-token = "yours'GITHUBTOKEN"
+token = "your's GITHUBTOKEN"
 endpoint = "https://models.inference.ai.azure.com"
 model_name = "gpt-4o"
 
