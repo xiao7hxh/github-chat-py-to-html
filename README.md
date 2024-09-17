@@ -2,6 +2,8 @@
 
 github的测试模型调用
 
+![效果](https://github.com/yoshino-xiao7/tp/blob/main/img/chat.png?raw=true)
+
 ## 部署
 
 ### 环境准备
